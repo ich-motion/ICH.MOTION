@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-3.2.1-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
 [🇷🇺 Читать на русском (Russian Version)](#ichmotion-cep-панель-для-after-effects-ru)
 
