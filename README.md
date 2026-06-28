@@ -17,6 +17,23 @@ To solve these problems, I created **ICH.MOTION**. This is a free and open-sourc
 4. **Presets Manager:** Conveniently search for your own animation presets, apply basic animations for subtitles, and apply custom presets starting from the in-point of text layers.
 5. **ASK AI:** Chat with Gemini directly inside AE (supports free-tier accounts), plus the "AE Terminator" role that can understand and edit compositions.
 
+## 🚀 Installation
+1. Download the latest `.zxp` release.
+2. Use a ZXP installer like [ZXPInstaller](https://zxpinstaller.com/) or [Anastasiy's Extension Manager](https://install.anastasiy.com/) to install it into After Effects.
+3. Restart After Effects and open the panel via `Window -> Extensions -> ICH.MOTION`.
+
+## 🤖 AI Setup
+To use the **ASK AI** feature, you need a free API key from Google:
+1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
+2. Create an API Key.
+3. Paste it into the `Enter Google AI Studio Key...` field in the **ASK AI** tab and click **SAVE**.
+
+## 🎙️ Auto SRT Setup
+To use local transcription:
+1. Go to the **SUBS** tab and click **Auto SRT**.
+2. The plugin will prompt you to download `faster-whisper-xxl.exe`.
+3. Select the folder containing the downloaded file. All transcription runs locally on your PC!
+
 ---
 
 ## 📝 License
@@ -38,6 +55,23 @@ This project is distributed under the **MIT** License. You are free to use, modi
 3. **Smart Subtitles:** Профессиональный редактор субтитров с возможностью транскрибации через Whisper.
 4. **Presets Manager:** Удобный поиск своих пресетов анимации, базовые анимации для субтитров и возможность применения своих пресетов с начала текстовых слоев.
 5. **ASK AI:** Чат с Gemini (для free-tier аккаунтов) прямо в AE + роль «AE Терминатор», который умеет понимать и править композиции.
+
+## 🚀 Установка
+1. Скачайте последний `.zxp` файл из релизов.
+2. Установите его с помощью [ZXPInstaller](https://zxpinstaller.com/) или [Anastasiy's Extension Manager](https://install.anastasiy.com/).
+3. Перезапустите After Effects и откройте панель через `Window -> Extensions -> ICH.MOTION`.
+
+## 🤖 Настройка AI
+Для работы вкладки **ASK AI** потребуется бесплатный ключ от Google:
+1. Перейдите в [Google AI Studio](https://aistudio.google.com/app/apikey).
+2. Создайте API ключ.
+3. Вставьте его в поле `Enter Google AI Studio Key...` во вкладке **ASK AI** и нажмите **SAVE**.
+
+## 🎙️ Настройка Auto SRT (Whisper)
+Для локальной генерации субтитров:
+1. Перейдите во вкладку **SUBS** и нажмите **Auto SRT**.
+2. Плагин предложит скачать файл `faster-whisper-xxl.exe`.
+3. Укажите папку со скачанным файлом. Вся транскрибация будет проходить полностью локально на вашей видеокарте или процессоре!
 
 ---
 
