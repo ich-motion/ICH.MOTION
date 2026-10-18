@@ -4,7 +4,11 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
-# ICH.MOTION CEP Панель для After Effects (RU)
+## 🔥 Полезные ссылки автора (ICH.Motion):
+* 📢 **[Telegram-канал (анонсы и мысли)](https://t.me/ich_motion)**
+* 🎬 **[YouTube-канал (туториалы до 3 минут и разборы)](https://www.youtube.com/channel/UC-sRFRD9xwlnlLDpw0GMoOw
+)**
+* ☕ **[Boosty (поддержать автора донатом и посмотреть видео без ВПН)](https://boosty.to/iknowhowtofly)**
 
 Работа моушн-дизайнером в маркетинге научила меня многим вещам, но главное: After Effects — твой лучший друг. Однако это такой друг, у которого есть много проблем.
 
