@@ -1,6 +1,6 @@
 # ICH.MOTION CEP Panel для After Effects
 
-![Version](https://img.shields.io/badge/version-4.0.1-blue.svg)
+![Version](https://img.shields.io/badge/version-4.1.1-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
