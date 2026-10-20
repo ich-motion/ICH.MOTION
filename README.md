@@ -8,7 +8,7 @@
 * 📢 **[Telegram-канал (анонсы и мысли)](https://t.me/ich_motion)**
 * 🎬 **[YouTube-канал (туториалы до 3 минут и разборы)](https://www.youtube.com/channel/UC-sRFRD9xwlnlLDpw0GMoOw
 )**
-* ☕ **[Boosty (поддержать автора донатом и посмотреть видео без ВПН)](https://boosty.to/iknowhowtofly)**
+* ☕ **[Boosty (поддержать автора донатом и посмотреть видео без ВПН)](https://boosty.to/iknowhowtofly/donate)**
 
 Работа моушн-дизайнером в маркетинге научила меня многим вещам, но главное: After Effects — твой лучший друг. Однако это такой друг, у которого есть много проблем.
 
