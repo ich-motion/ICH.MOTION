@@ -23,9 +23,9 @@
 
 ## 🚀 Установка
 1. Скачайте последний `.zxp` файл из релизов.
-2.1. Установите его с помощью [ZXPInstaller]([https://zxpinstaller.com/](https://aescripts.com/zxp-installer/) (от aescripts).
+2. Установите его с помощью [ZXPInstaller](https://aescripts.com/zxp-installer/) (от aescripts).
    > **Важно при обновлении:** Если у вас осталась старая папка `com.ich.motion.v3` в директории расширений (и плагин двоится в AE), удалите её вручную.
-2.2. Либо разархивируйте .zxp и скопируйте папку `com.ich.motion.panel` целиком в системную директорию расширений (`C:\Program Files (x86)\Common Files\Adobe\CEP\extensions`).
+3. Либо разархивируйте .zxp и скопируйте папку `com.ich.motion.panel` целиком в системную директорию расширений (`C:\Program Files (x86)\Common Files\Adobe\CEP\extensions`).
 4. Перезапустите After Effects и откройте панель через `Window -> Extensions -> ICH.MOTION`.
 
 ## 🤖 Настройка AI
