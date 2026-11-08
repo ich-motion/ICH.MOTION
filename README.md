@@ -22,7 +22,7 @@
 5. **ASK AI & AE MCP:** Чат с моделями Google AI Studio и OpenRouter прямо в AE (включая роль «AE Терминатор»), а также встроенный MCP-сервер для прямого управления After Effects из Antigravity, Cursor и Claude Desktop.
 
 ## 🚀 Установка
-1. Скачайте последний `.zxp` файл из релизов.
+1. Скачайте последний `.zxp` файл из [релизов](https://github.com/ich-motion/ICH.MOTION/releases).
 2. Установите его с помощью [ZXPInstaller](https://aescripts.com/zxp-installer/) (от aescripts).
    > **Важно при обновлении:** Если у вас осталась старая папка `com.ich.motion.v3` в директории расширений (и плагин двоится в AE), удалите её вручную.
 3. Либо разархивируйте .zxp и скопируйте папку `com.ich.motion.panel` целиком в системную директорию расширений (`C:\Program Files (x86)\Common Files\Adobe\CEP\extensions`).
